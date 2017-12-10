@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1512897064 source:c:\users\enrque aguirre\pictures\upiita\primer semestre\primer parcial - primer semestre\i. programación\práctica_7\problema\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
